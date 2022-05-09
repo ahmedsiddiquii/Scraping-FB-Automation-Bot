@@ -11,7 +11,7 @@ pip3 install undetected_chromedriver
 
 # To Run
 put pages link in page.txt file
-\nput groups link in groups.txt file
+put groups link in groups.txt file
 put fb credentials in fb_creds.txt file
 Just run vipon_bot.py
 
